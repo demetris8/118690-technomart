@@ -1,0 +1,15 @@
+.vedro {
+	background-position: 0 0;
+}
+.shurupovert {
+	background-position: -45px 0;
+}
+.tracktor {
+	background-position: -120px 0;
+}
+.telega {
+	background-position: -200px 0;
+}
+.car {
+	background-position: -261px 0;
+}
